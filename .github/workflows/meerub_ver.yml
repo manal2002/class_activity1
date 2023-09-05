@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ "meerub" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "meerub" ]
+    branches: [ "main" ]
 
 permissions:
   contents: read
