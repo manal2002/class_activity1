@@ -1,3 +1,5 @@
 
+def addition(x,y):
+    return x+y
 
-print("hello")
+addition(6,9)
